@@ -3,3 +3,5 @@ def hello():
 
 def goodbye():
     print('Goodbye world!')
+def hardwork():
+    print('need to learn'      
